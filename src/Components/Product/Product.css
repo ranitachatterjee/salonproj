@@ -1,0 +1,56 @@
+.newCard-btn {  
+    color: #1f3d47;
+    background: #8fabba;
+    padding: 10px 20px;
+    font-weight: 500;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+
+.cardBtn {
+    position: relative;
+    top: 50%;
+    width: 45%;  
+    color: #1f3d47;
+    background: #8fabba;
+    /* background: red; */
+    padding: 10px 20px;
+    font-weight: 500;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    text-transform: capitalize; 
+}
+
+.cardBtn1{
+    margin-right: 25px;
+   
+}
+
+
+    .box {
+        cursor: pointer;
+     }
+
+     /* styles.css */
+
+/* Default link styles */
+.box {
+    color: blue; /* Change this to the default link color */
+    text-decoration: none;
+    background-color:lightgrey;
+  }
+  
+  /* Link styles on hover */
+  .box:hover {
+    background-color: green; /* Change this to the desired hover color */
+  }
+
+  body{
+    background-color: lightblue;
+  }
+  
